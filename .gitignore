@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Backup and temp files
+*.bkp
+*.drawio.bkp
+output/
+temp/
+
+# IDE settings
+.vscode/
+.idea/
