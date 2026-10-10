@@ -78,6 +78,13 @@ flowchart TD
 * Разделение дорожек (Swimlanes): Клиент, Внутренний оператор, Фронт-система, Шлюз интеграции, Бэк-офис;
 * Строгие правила валидации шлюзов (Exclusive Gateway): наличие четких условий на исходящих потоках («Да / Нет»).
 
+<div align="center">
+
+#### 📸 Пример эталонной схемы BPMN 2.0, синтезированной генератором для Draw.io
+<img src="samples/bpmn_diagram_sample.png" alt="Generated BPMN 2.0 XML Diagram in Draw.io" width="850"/>
+
+</div>
+
 ---
 
 ## 3. Инструментарий работы со схемами Draw.io (`tools/`)

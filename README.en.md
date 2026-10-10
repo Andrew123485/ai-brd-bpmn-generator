@@ -78,6 +78,13 @@ flowchart TD
 * Standardized swimlane separation: Client, Internal Operator, Front-end Platform, Integration Gateway, Core Back-office;
 * Rigid validation of XOR/AND gateways with mutually exclusive output branch conditions (e.g., "Success / Failure").
 
+<div align="center">
+
+#### 📸 Sample Production BPMN 2.0 XML Diagram Synthesized for Draw.io
+<img src="samples/bpmn_diagram_sample.png" alt="Generated BPMN 2.0 XML Diagram in Draw.io" width="850"/>
+
+</div>
+
 ---
 
 ## 3. Draw.io Diagram Toolset (`tools/`)
